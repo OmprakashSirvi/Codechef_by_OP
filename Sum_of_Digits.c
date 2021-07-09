@@ -31,5 +31,5 @@ int main(){
     for (int i = 0; i < t; i++){
         printf("%d\n", sumofDigits(nums[i]));
     }
-
+    return 0;
 }
